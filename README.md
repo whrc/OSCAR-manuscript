@@ -4,4 +4,4 @@ This Repository contains the scripts and input files to run OSCAR (v3.0), a comp
 
 **input_data:** The input_data folder contains the **drivers** for historic and scenario forcings for emissions drive (E) and concentration driven (C). The **parameters** folder contains the parameter files for each specific run set-up, including a specific land surface model (e.g., JSBACH) used to drive the gradual thaw emulator and a combination of other permafrost modules that are switched on. 
 
-The new moduels for **abrupt thaw**, **high latitude combustion**, and **post-fire permafrost thaw** are found in fct_process.py under 1.4. Permafrost
+The new modules for **abrupt thaw**, **high latitude combustion**, and **post-fire permafrost thaw** are found in fct_process.py under 1.4. Permafrost
