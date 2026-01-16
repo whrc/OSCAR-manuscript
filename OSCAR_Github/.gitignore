@@ -1,0 +1,30 @@
+# Word documents
+*.docx
+
+# OSCAR outputs (do not publish)
+output_data/
+# manuscript drafts and submissions
+2023_submission/
+Revisions/
+*.docx
+*.xlsx
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+M-6
+
+i
+
+M-6
+# manuscript drafts and submissions
+2023_submission/
+Revisions/
+*.docx
+*.xlsx
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+
