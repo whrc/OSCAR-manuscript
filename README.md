@@ -1,4 +1,4 @@
-# OSCAR manuscript repository
+# OSCAR abrupt postfire repository
 
 This repository contains the scripts and input files used to run OSCAR v3.0, a compact Earth System Model, for the analyses presented in 
 
